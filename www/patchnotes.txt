@@ -1,0 +1,305 @@
+
+---
+
+ Update 0.0.1 (28-04-2025 19:20)
+
+Added:
+
+* Custom-made plugin to change the title screen background (yes, written in Java(script))
+
+---
+
+ Update 0.0.2 (28-04-2025 20:34)
+
+Added:
+
+* First game textures
+
+---
+
+ Update 0.0.3 (29-04-2025 18:00)
+
+Added:
+
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
+
+---
+
+ Update 0.0.4 (01-05-2025 22:20)
+
+Added:
+
+* First sketch of Security
+* Tutorial level fixed
+
+---
+
+ Update 0.0.5 (03-05-2025 14:20)
+
+Added:
+
+* Tutorial level updated
+
+You won’t get more gameplay until update 0.5 (closed beta test) and 0.8 (open beta test)
+
+---
+
+ Update 0.0.6 (05-05-2025 19:35)
+
+Added:
+
+* New textures
+
+---
+
+ Update 0.1 (05-05-2025 21:43)
+
+ End of "brain levels" development
+ Start of full game development
+
+---
+
+ Update 0.1.1 (12-05-2025 18:46)
+
+Added:
+
+* Firearms: Magnum, Makarov, 5.56 Revolver, and TSC Energy Pistol
+* Ammo for firearms
+* Melee weapons
+* Hydroelectric Plant (HPP) location is 50% complete
+* New sprite for the protagonist
+
+---
+
+ Update 0.2 (18-05-2025 13:31)
+
+Added:
+
+* HPP location completed
+* New items (medkits and ammo)
+* New enemies
+* First VHS-style animation
+
+Plans:
+
+* Start working on the Warehouse location
+* Add combat bots
+* Minor combat adjustments
+
+---
+
+ Update 0.2.1 (29-05-2025 19:56)
+
+Added:
+
+* Warehouse location is 50% complete
+* New medications
+* Fog
+* Character "The Preacher"
+* New decorations
+
+Plans:
+
+* Add combat bots
+* Minor combat adjustments
+* Add Residential Complex location
+* Add Trading Station
+
+---
+
+ Update 0.3 (17-06-2025 13:36)
+
+Added:
+
+* Warehouse location is 90% complete
+* Chemistry system
+* New battle backgrounds
+* New decorations
+* Combat bots
+
+Plans:
+
+* Minor combat adjustments
+* Add Residential Complex location
+* Add Trading Station
+
+---
+
+ Update 0.3.1 (23-06-2025 22:33)
+
+Added:
+
+* Warehouse location is now 100% complete
+* Updated item pool in crates
+* New decorations
+* Updated game intro
+
+---
+
+ Update 0.3.2 (26-06-2025 13:33)
+
+Added:
+
+* Cutscene with the railgun is finished (had to trim it for faster development)
+* Rebalanced item drops from crates
+
+---
+
+ Update 0.3.3 (04-07-2025 21:26)
+
+Added:
+
+ New visual style for locations
+ Updated props
+ New props
+
+---
+
+ Update 0.3.4 (08-07-2025 18:39)
+
+Added:
+
+* Enemies now have a field of vision
+
+---
+
+Update 0.4 (02-08-2025 14:47)
+
+(also a summary of previous updates)
+
+Added:
+
+* New NPCs
+
+* Faces in dialogues
+
+* New painting style (animated characters against a realistic environment — not applied everywhere)
+
+* Reputation system
+
+* Chemistry
+
+* New large location: Museum
+
+* New locations
+
+* New weapons
+
+* Limb system for arms (legs cannot be injured)
+
+* New enemies
+
+* New mini-boss: Raven
+
+Changed:
+
+* Combat
+
+* Damage system
+
+* Firearms
+
+Plans:
+
+* Create city sub-locations
+
+* Create a large location: Factory
+
+* More lore
+
+* System for shooting outside direct combat
+
+* Modification stations (for installing prosthetics and modules)
+
+---
+
+Update 0.4.1 (22-08-2025 11:40)
+
+Added:
+
+* Library location
+
+* Books
+
+* Updated Wiki
+
+---
+
+Update 0.4.2 (24-08-2025 00:24)
+
+Added:
+
+* New Hydroelectric Power Plant shutdown
+
+* Consequences of power outage: reduced lighting in other locations
+
+---
+
+Update 0.4.3 (26-08-2025 10:43)
+
+Added:
+
+* New location branching from the colony entrance
+
+* Started creation of NPC Damaged Robot (Timur)
+
+* Started creation of the city
+
+Changed:
+
+* Loot in crates
+
+---
+Update 0.4.4 (06-09-2025 22:34)
+
+Added:
+
+* New posters
+
+* New enemy: Android T2 (still in progress, coming soon)
+
+* Factory entrance completed by 80%
+
+* New sounds
+
+Changed:
+
+* Weapon damage
+
+---
+
+Update 0.4.4.2 (07-09-2025 19:16)
+
+* Corpses are tangible again
+
+* Destroying head and body no longer causes the game to freeze
+
+* Fixes to combat variables
+
+---
+
+Update 0.4.4.3 (08-09-2025 19:16)
+
+* Personal BETA test carried out
+
+* A lot of minor issues fixed
+
+* Fixes to volute
+
+* Fixes to railgun
+
+* Fixes to variables
+
+---
