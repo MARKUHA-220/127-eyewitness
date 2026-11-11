@@ -288,6 +288,6 @@ null,
 {"id":286,"expanded":true,"name":"SSP-Лоялист-США-New-4","order":238,"parentId":275,"scrollX":6489,"scrollY":7512},
 {"id":287,"expanded":true,"name":"Тест","order":3,"parentId":166,"scrollX":4914,"scrollY":2742},
 {"id":288,"expanded":true,"name":"SSP-Лоялист-США-New-Подземка","order":239,"parentId":286,"scrollX":1830.5454545454547,"scrollY":1518.5454545454545},
-{"id":289,"expanded":true,"name":"SSP-Лоялист-США-New-Подземка-2","order":240,"parentId":288,"scrollX":1830.5454545454547,"scrollY":1315.6363636363637},
+{"id":289,"expanded":true,"name":"SSP-Лоялист-США-New-Подземка-2","order":240,"parentId":288,"scrollX":1832,"scrollY":1130.6666666666667},
 {"id":290,"expanded":true,"name":"SSP-Лоялист-США-New-Подземка-США","order":241,"parentId":286,"scrollX":1946.3999999999999,"scrollY":1221.6}
 ]
