@@ -150,3 +150,26 @@ https://drive.google.com/drive/folders/1d2IK2f3wBqJUoxE_oU4XYI4PLvuk6i8t
  *07.11.2026, 17:45*
  
 по поводу локаций всё также была переработка старой карты и дополнение уже нового города с квестами (покамись не реализовал, но уже памятка есть (будет где то 3 квеста))
+
+
+*11.11.2026 20:32*
+
+как будто и каждый день работаю, но контента как токового нету
+
+<img width="770" height="716" alt="изображение" src="https://github.com/user-attachments/assets/aaacd337-ff42-4cec-8bf6-e489b36b2943" />
+<img width="600" height="478" alt="изображение" src="https://github.com/user-attachments/assets/3c06e89a-1011-4a91-8208-1ee45836504d" />
+<img width="1127" height="765" alt="изображение" src="https://github.com/user-attachments/assets/01499d48-141d-400b-9600-88ddb26c44c3" />
+<img width="787" height="598" alt="изображение" src="https://github.com/user-attachments/assets/8dcf231f-e700-4255-81d5-239dbf413466" />
+<img width="726" height="565" alt="изображение" src="https://github.com/user-attachments/assets/a5c415d7-f69f-47ec-84f8-58940448b224" />
+<img width="485" height="340" alt="изображение" src="https://github.com/user-attachments/assets/e238cc33-adff-4420-bad5-fd0f3792702c" />
+<img width="1254" height="453" alt="изображение" src="https://github.com/user-attachments/assets/d0c0f45a-6ec5-461d-9a74-2ee4ac12ed82" />
+<img width="941" height="230" alt="изображение" src="https://github.com/user-attachments/assets/12690b5d-e27d-4604-b570-cce6df7e96fe" />
+
+
+*13.11.2026 19:11*
+
+<img width="834" height="524" alt="изображение" src="https://github.com/user-attachments/assets/2d387dd6-b6cf-46d9-91fc-7667f7e05160" />
+<img width="640" height="401" alt="изображение" src="https://github.com/user-attachments/assets/8c0cd0e6-1bfb-47e4-be5b-38f5613d81f5" />
+<img width="697" height="561" alt="изображение" src="https://github.com/user-attachments/assets/34c31c6f-0eca-4461-b26d-b69c771da78f" />
+
+https://github.com/user-attachments/assets/4de36712-9cbb-4784-ad60-47decb019ef7
