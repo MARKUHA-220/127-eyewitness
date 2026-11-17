@@ -285,7 +285,7 @@ null,
 {"id":283,"expanded":false,"name":"SSP-Лоялист-США-New-3","order":236,"parentId":275,"scrollX":6730.666666666667,"scrollY":2405.3333333333335},
 {"id":284,"expanded":true,"name":"SSP-Лоялист-США-New-Сад","order":235,"parentId":278,"scrollX":2457,"scrollY":1371},
 {"id":285,"expanded":true,"name":"SSP-Лоялист-США-New-бункер","order":237,"parentId":283,"scrollX":2433,"scrollY":3003},
-{"id":286,"expanded":false,"name":"SSP-Лоялист-США-New-4","order":238,"parentId":275,"scrollX":7785.599999999999,"scrollY":4387.2},
+{"id":286,"expanded":false,"name":"SSP-Лоялист-США-New-4","order":238,"parentId":275,"scrollX":7785.599999999999,"scrollY":7900.799999999999},
 {"id":287,"expanded":true,"name":"Тест","order":3,"parentId":166,"scrollX":4914,"scrollY":2742},
 {"id":288,"expanded":true,"name":"SSP-Лоялист-США-New-Подземка","order":239,"parentId":286,"scrollX":1830.5454545454547,"scrollY":2096.727272727273},
 {"id":289,"expanded":true,"name":"SSP-Лоялист-США-New-Подземка-2","order":240,"parentId":288,"scrollX":1830.5454545454547,"scrollY":2620.3636363636365},
@@ -295,6 +295,6 @@ null,
 {"id":293,"expanded":false,"name":"SSP-лийт-в-низ","order":244,"parentId":292,"scrollX":1786.909090909091,"scrollY":997.0909090909091},
 {"id":294,"expanded":true,"name":"SSP-лийт-в-верх","order":245,"parentId":293,"scrollX":728,"scrollY":406.22222222222223},
 {"id":295,"expanded":true,"name":"SSP-Лоялист-США-New-Бункер-США-2","order":246,"parentId":292,"scrollX":3030.5454545454545,"scrollY":2768.727272727273},
-{"id":296,"expanded":true,"name":"SSP-Лоялист-США-New-6","order":247,"parentId":275,"scrollX":6552,"scrollY":3656},
-{"id":297,"expanded":false,"name":"SSP-Лоялист-США-New-7","order":248,"parentId":275,"scrollX":1786.909090909091,"scrollY":997.0909090909091}
+{"id":296,"expanded":true,"name":"SSP-Лоялист-США-New-6","order":247,"parentId":275,"scrollX":7862.4,"scrollY":4387.2},
+{"id":297,"expanded":false,"name":"SSP-Лоялист-США-New-7","order":248,"parentId":275,"scrollX":7422,"scrollY":5904}
 ]
