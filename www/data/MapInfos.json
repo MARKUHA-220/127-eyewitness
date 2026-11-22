@@ -297,8 +297,8 @@ null,
 {"id":295,"expanded":true,"name":"SSP-Лоялист-США-New-Бункер-США-2","order":246,"parentId":292,"scrollX":3030.8571428571427,"scrollY":3471.428571428571},
 {"id":296,"expanded":true,"name":"SSP-Лоялист-США-New-6","order":247,"parentId":275,"scrollX":3538.909090909091,"scrollY":2805.818181818182},
 {"id":297,"expanded":true,"name":"SSP-Лоялист-США-New-7","order":248,"parentId":275,"scrollX":6488,"scrollY":8632},
-{"id":298,"expanded":false,"name":"SSP-Лоялист-США-New-7-дома","order":249,"parentId":297,"scrollX":1946.3999999999999,"scrollY":1096.8},
-{"id":299,"expanded":true,"name":"SSP-Лоялист-США-New-7-Тонг","order":250,"parentId":297,"scrollX":1946.3999999999999,"scrollY":1219.2},
+{"id":298,"expanded":false,"name":"SSP-Лоялист-США-New-7-дома","order":249,"parentId":297,"scrollX":1978,"scrollY":1327},
+{"id":299,"expanded":true,"name":"SSP-Лоялист-США-New-7-Тонг","order":250,"parentId":297,"scrollX":1769.4545454545455,"scrollY":1219.6363636363637},
 {"id":300,"expanded":false,"name":"SSP-Лоялист-США-New-7-Трайсер","order":252,"parentId":297,"scrollX":1946.3999999999999,"scrollY":2503.2},
 {"id":301,"expanded":true,"name":"SSP-Лоялист-США-New-7-Тонг-Внутри","order":251,"parentId":299,"scrollX":1946.3999999999999,"scrollY":1303.2}
 ]
