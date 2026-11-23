@@ -246,3 +246,13 @@
 https://github.com/user-attachments/assets/4de36712-9cbb-4784-ad60-47decb019ef7
 
 </div>
+
+ *20.11.2026 18:57*
+ 
+Чисто технически я каждый день добавляю и изменяю что то, но показать что то дельного не особо могу из за того что это мелкие вещи и требуют накопления контента на показ
+
+<img width="793" height="463" alt="изображение" src="https://github.com/user-attachments/assets/d9947ef7-1c91-48ee-a0a0-ea71aed5eefb" />
+<img width="778" height="762" alt="изображение" src="https://github.com/user-attachments/assets/55c6180a-7b7c-47d7-b000-184ab9adb1c8" />
+<img width="628" height="704" alt="изображение" src="https://github.com/user-attachments/assets/53022484-e5b4-49b4-bde9-8d0f0dcd969a" />
+<img width="934" height="666" alt="изображение" src="https://github.com/user-attachments/assets/2f8b013f-555d-4378-8561-04f377831977" />
+<img width="1033" height="569" alt="изображение" src="https://github.com/user-attachments/assets/f71a422f-72ae-484d-821b-fd7bd855e044" />
