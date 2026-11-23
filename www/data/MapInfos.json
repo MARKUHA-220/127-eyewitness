@@ -294,12 +294,12 @@ null,
 {"id":292,"expanded":true,"name":"SSP-Лоялист-США-New-Бункер-США","order":243,"parentId":291,"scrollX":3538.6666666666665,"scrollY":2125.3333333333335},
 {"id":293,"expanded":true,"name":"SSP-лийт-в-низ","order":244,"parentId":292,"scrollX":1965.6,"scrollY":1096.8},
 {"id":294,"expanded":true,"name":"SSP-лийт-в-верх","order":245,"parentId":293,"scrollX":1965.6,"scrollY":1096.8},
-{"id":295,"expanded":true,"name":"SSP-Лоялист-США-New-Бункер-США-2","order":246,"parentId":292,"scrollX":2853.6,"scrollY":2126.4},
-{"id":296,"expanded":true,"name":"SSP-Лоялист-США-New-6","order":247,"parentId":275,"scrollX":3409.7142857142853,"scrollY":1993.7142857142856},
+{"id":295,"expanded":true,"name":"SSP-Лоялист-США-New-Бункер-США-2","order":246,"parentId":292,"scrollX":2854,"scrollY":2126},
+{"id":296,"expanded":true,"name":"SSP-Лоялист-США-New-6","order":247,"parentId":275,"scrollX":3178,"scrollY":3902},
 {"id":297,"expanded":true,"name":"SSP-Лоялист-США-New-7","order":248,"parentId":275,"scrollX":8414,"scrollY":5020},
-{"id":298,"expanded":false,"name":"SSP-Лоялист-США-New-7-дома","order":249,"parentId":297,"scrollX":1978,"scrollY":1262},
-{"id":299,"expanded":true,"name":"SSP-Лоялист-США-New-7-Тонг","order":250,"parentId":297,"scrollX":1622,"scrollY":1486},
+{"id":298,"expanded":false,"name":"SSP-Лоялист-США-New-7-дома","order":249,"parentId":297,"scrollX":1978,"scrollY":1342},
+{"id":299,"expanded":true,"name":"SSP-Лоялист-США-New-7-Тонг","order":250,"parentId":297,"scrollX":1622,"scrollY":1262},
 {"id":300,"expanded":true,"name":"SSP-Лоялист-США-New-7-Трайсер","order":252,"parentId":297,"scrollX":1978,"scrollY":2126},
 {"id":301,"expanded":true,"name":"SSP-Лоялист-США-New-7-Тонг-Внутри","order":251,"parentId":299,"scrollX":1830.8571428571427,"scrollY":1630.2857142857142},
-{"id":302,"expanded":false,"name":"SSP-Лоялист-США-New-7-Трайсер-низ","order":253,"parentId":300,"scrollX":1830,"scrollY":1220}
+{"id":302,"expanded":false,"name":"SSP-Лоялист-США-New-7-Трайсер-низ","order":253,"parentId":300,"scrollX":1978,"scrollY":1502}
 ]
