@@ -1,5 +1,17 @@
 <h1 align="center">127 Очевидец</h1>
 
+<div align="center">
+ 
+![Downloads](https://img.shields.io/github/downloads/MARKUHA-220/127-eyewitness/total)
+![License](https://img.shields.io/github/license/MARKUHA-220/127-eyewitness)
+![Stars](https://img.shields.io/github/stars/MARKUHA-220/127-eyewitness?style=flat)
+![Forks](https://img.shields.io/github/forks/MARKUHA-220/127-eyewitness?style=flat)
+![Issues](https://img.shields.io/github/issues/MARKUHA-220/127-eyewitness)
+![Last Commit](https://img.shields.io/github/last-commit/MARKUHA-220/127-eyewitness)
+--
+ </div>
+
+
 Это репозиторий русскоязычной игры Очевидец во вселенной 127, так же является продолжением игры Первая кровь. Игра основана на игре ███████: я стилизовал игру в стиле "А что если", поддерживаю (покамись) активные обновления и добавляю свой собственный уникальный контент. игра разрабатывается с 28.04.2025
 
 ## Активность проекта
