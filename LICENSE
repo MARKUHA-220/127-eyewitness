@@ -1,21 +1,79 @@
-MIT License
+Pre-Release Proprietary License
 
-Copyright (c) 2025 MARKUHA-220
+Copyright (c) 2026 MARKUHA-220 (Mark Ričard Kozlovskij). All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Ownership
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This software, including its source code, assets, documentation, design, and other associated materials (hereinafter referred to as the "Software"), is the intellectual property of its original author and copyright holder.
+All rights are reserved unless explicitly granted by the copyright holder.
+
+2. Restrictions Before Official Release
+
+Until the official public release of the Software, no individual or legal entity is permitted to perform any of the following actions without prior authorization from the copyright holder:
+
+- Modification: Modify, alter, adapt, translate, or create derivative works based on the Software.
+- Distribution: Distribute, publish, transfer, or otherwise make the Software or substantial portions thereof available to third parties.
+- Republication: Publish copies, forks, mirrors, or modified versions of the Software on other platforms or in other repositories.
+- Commercial Use: Sell, sublicense, or otherwise commercially exploit the Software or any of its components.
+- Repackaging: Repackage, rename, or present the Software or any of its components as an independent project.
+
+These restrictions apply to both commercial and non-commercial use.
+
+3. Permitted Activities
+
+Before the official release, the following activities are permitted:
+
+- Viewing and examining the publicly accessible source code.
+- Downloading the Software for personal evaluation and testing.
+- Reporting bugs, suggesting improvements, and discussing the project.
+
+These permissions do not grant the right to modify or distribute the Software.
+
+4. Authorized Individuals and Exceptions
+
+4.1. Authorized Individuals
+
+The right to modify and distribute the Software before its official release is exclusively granted to individuals personally authorized by the repository owner.
+Authorized individuals are those whom the repository owner has personally and explicitly added to the list of contributors in the **Development Contributors** section of the `LEGAL.md` file in the project's official GitHub repository.
+Merely having access to the source code, being able to view the repository, download files, or create forks does not grant any such rights.
+
+4.2. Limitations of Authorization
+
+Granted permissions are strictly limited to the scope of authorization established by the repository owner.
+Authorized individuals may not transfer their permissions to third parties, grant them permission to modify or distribute the Software, or issue sublicenses of their own.
+Removing an individual from the contributors list of the official repository terminates their authorization to further modify and distribute the Software, unless otherwise separately agreed upon with the copyright holder.
+
+4.3. Individual Permissions
+
+The copyright holder may grant additional permissions to specific individuals or legal entities in writing.
+Permission granted to one individual or entity does not automatically extend to any other individuals or entities.
+
+5. Transition to the MIT License
+
+Upon the official public release of the Software, this Pre-Release Proprietary License shall cease to apply to the Software.
+Starting from the date of the official release, the entire Software shall be distributed under the terms of the MIT License.
+The MIT License shall apply to all versions of the Software, including versions created and published before the official release, as well as all subsequent versions.
+Consequently, after the official release, the restrictions established by this license shall no longer apply to the Software, including its previous versions.
+The official release must be announced or published by the copyright holder through an official project distribution channel.
+
+6. Disclaimer of Warranty
+
+The Software is provided "AS IS", without warranties of any kind, express or implied, including, but not limited to, warranties of merchantability, fitness for a particular purpose, and non-infringement of third-party rights.
+
+7. License Violations
+
+Any unauthorized use, modification, or distribution of the Software before its official release may constitute a violation of the copyright holder's intellectual property rights and may result in legal consequences under applicable law.
+
+8. Contact Information
+
+For licensing inquiries, permission requests, or other matters concerning the Software, please contact the original copyright holder through the project's official communication channels.
+
+---
+
+Copyright (c) 2026 MARKUHA-220 (Mark Ričard Kozlovskij). All Rights Reserved.
+
+License Status: Pre-Release Proprietary License.
+
+Future License: MIT License (effective upon official public release).
