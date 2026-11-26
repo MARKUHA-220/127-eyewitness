@@ -22,6 +22,7 @@
 
 1. [RPGmaker MV Steam](https://store.steampowered.com/app/363890/RPG_Maker_MV/)
 2. [RPGmaker MV](https://rpgmakerunion.ru/downloads)
+3. [Git (Опционально)](https://git-scm.com/install/)
 
 ## Драйв игры 
 
