@@ -21,7 +21,7 @@ The following GitHub accounts are authorized to modify and distribute the Softwa
 <!-- Add authorized GitHub usernames below, one per line. -->
 <!-- Example: -->
 <!-- - username -->
-
+- `tetris5090`
 <!-- AUTHORIZED_CONTRIBUTORS_END -->
 
 ## Authorization Rules
