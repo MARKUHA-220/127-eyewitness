@@ -3,7 +3,6 @@
 <div align="center">
  
 ![Downloads](https://img.shields.io/github/downloads/MARKUHA-220/127-eyewitness/total)
-![License](https://img.shields.io/github/license/MARKUHA-220/127-eyewitness)
 ![Stars](https://img.shields.io/github/stars/MARKUHA-220/127-eyewitness?style=flat)
 ![Forks](https://img.shields.io/github/forks/MARKUHA-220/127-eyewitness?style=flat)
 ![Issues](https://img.shields.io/github/issues/MARKUHA-220/127-eyewitness)
